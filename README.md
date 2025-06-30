@@ -14,7 +14,7 @@ I'm a software engineer with over a decade of experience building user-focused, 
 - Kotlin (planned)
 
 ## 🎸 When I'm not coding...
-I'm playingh rock/jazz-fusion guitar, gaming through indie story-driven titles, or digging into UX design trends.
+I'm playing rock/jazz-fusion guitar, gaming through indie story-driven titles, or digging into UX design trends.
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/brandtjorgensen)
