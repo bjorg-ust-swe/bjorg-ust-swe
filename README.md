@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 👋 Hi, I'm Brandt Jorgensen
 
 I'm a software engineer with over a decade of experience building user-focused, scalable applications across FinTech, Ecommerce, and Healthcare. I specialize in **frontend development** using React, TypeScript, and modern web technologies — and I'm currently diving deeper into **backend engineering** with Python and distributed systems.
