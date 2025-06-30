@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-engineer.png)
 
 # 👋 Hi, I'm Brandt Jorgensen
 
